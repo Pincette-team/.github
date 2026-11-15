@@ -18,6 +18,10 @@ Pacemaker는 학생이 나보다 먼저 입시를 지나온 선배(페이스메�
 
 ## 🗂️ Repositories
 
+> [!NOTE]
+> 실제 결제와 개인정보를 다루는 운영 중인 서비스라, 세 저장소는 비공개로 관리하고 있습니다.<br>
+> 서비스 구조와 주요 기능은 이 페이지에 정리해 두었고, 코드 열람이 필요하시면 mingo0273@gmail.com으로 연락 주세요.
+
 | Repository | 역할 | 주요 기술 |
 | --- | --- | --- |
 | [**pacemaker-frontend**](https://github.com/Pincette-team/pacemaker-frontend) | 학생용 웹: 랜딩, 페이스메이커 상세, 가입·예약·결제, 마이페이지 | Next.js 16, React 19, Tailwind CSS 4 |
